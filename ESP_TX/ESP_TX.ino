@@ -4,7 +4,7 @@
 
 #define buttonPin 32
 
-uint8_t receiverMAC[] = {0x24, 0x62, 0xab, 0xe2, 0x55, 0xc8};
+uint8_t receiverMAC[] = {};
 
 typedef struct struct_message{
   int buttonPressed;
