@@ -7,5 +7,5 @@ IoT機器で遊んでみたい方どうぞ。
 まずはリポジトリをクローンしてください：
 
 ```bash
-git clone https://github.com/kkkk-ui/GraphKernelSVM.git
-cd GraphKernelSVM
+git clone https://github.com/kkkk-ui/intercom_system.git
+cd intercom_system
