@@ -4,6 +4,7 @@
 
 #define buttonPin 32
 
+// set ESP32 MAC address
 uint8_t receiverMAC[] = {};
 
 typedef struct struct_message{
